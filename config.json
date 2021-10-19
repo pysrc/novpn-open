@@ -1,0 +1,19 @@
+{
+    "exchange": {
+        "port": 80,
+        "key": "helloworld"
+    },
+    "service": {
+        "exchange": "127.0.0.1:80",
+        "key": "helloworld",
+        "id": "testid",
+        "password": "passworld"
+    },
+    "client": {
+        "exchange": "127.0.0.1:80",
+        "port": 88,
+        "key": "helloworld",
+        "id": "testid",
+        "password": "passworld"
+    }
+}
